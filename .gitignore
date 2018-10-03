@@ -54,4 +54,8 @@ local.properties
 # Scala IDE specific (Scala & Java development for Eclipse)
 .cache-main
 .scala_dependencies
+<<<<<<< HEAD
 .worksheet
+=======
+.worksheet
+>>>>>>> 86ed915ba9a6d8edc20adb9add89c9148d59424b
